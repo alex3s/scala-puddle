@@ -48,6 +48,7 @@ endif
 MONERO_INC = \
   ${MONERO_ROOT}/src \
   ${MONERO_ROOT}/external \
+  ${MONERO_ROOT}/external/panthera \
   ${MONERO_ROOT}/external/easylogging++ \
   ${MONERO_ROOT}/contrib/epee/include
 
@@ -59,6 +60,7 @@ MONERO_LIBS = \
   ${MONERO_BUILD_ROOT}/src/device/libdevice.a \
   ${MONERO_BUILD_ROOT}/contrib/epee/src/libepee.a \
   ${MONERO_BUILD_ROOT}/external/easylogging++/libeasylogging.a \
+  ${MONERO_BUILD_ROOT}/external/panthera/libdefyx.a \
   ${MONERO_BUILD_ROOT}/src/libversion.a
 
 LIBRX = ${MONERO_BUILD_ROOT}/external/RandomWOW/librandomx.a
