@@ -1,7 +1,7 @@
 # scala-puddle 
 ## work in progress - not working correctly yet - only for educational purposes
 
-A Scala (XLA) mining pool server written in C based on the excellent and fast monero-pool by jtgrassie.
+A Scala ([XLA](https://www.scalaproject.io/)) mining pool server written in C based on the excellent and fast monero-pool by jtgrassie.
 For a full fetched version of Scala pool featuring all kind of statistics, check https://github.com/scala-network/scala-pool
 
 This fast and light pool is intended to be run on local network and serve your local devices. 
