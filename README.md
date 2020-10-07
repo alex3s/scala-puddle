@@ -1,4 +1,5 @@
-# scala-puddle
+# scala-puddle 
+## work in progress - not working correctly yet - only for educational purposes
 
 A Scala (XLA) mining pool server written in C based on the excellent and fast monero-pool by jtgrassie.
 For a full fetched version of Scala pool featuring all kind of statistics, check https://github.com/scala-network/scala-pool
@@ -12,7 +13,7 @@ Forked from Wownero-puddle.
 1. Compiling on Debian or Ubuntu Linux
 2. Compiling on ARM based systems. Raspbery Pi or Android within the Termux app command environment.
 This readme features compiling on Linux. 
-Compiling on Android inside Termux app follows soon. (it's possible)
+Compiling on Android inside Termux app follows soon. (it's possible, trick is to get the correct packages first: apt install ... list coming soon)
 
 ### Dependencies
 
