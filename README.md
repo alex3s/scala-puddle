@@ -5,6 +5,7 @@ For a full fetched version of Scala pool featuring all kind of statistics, check
 
 This fast and light pool is intended to be run on local network and serve your local devices. 
 In fact, thanks to the original implementation by JtGrassie it's fast enough to be compiled and run on your Android or Linux mobile phone.
+Forked from Wownero-puddle.
 
 ## Compiling from source
 
